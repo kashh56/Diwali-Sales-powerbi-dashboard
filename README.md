@@ -24,7 +24,10 @@ The dataset used in this project was sourced from **Kaggle**, which contains det
 *   💡 **Insights Extraction**: Analyzed customer behavior, top-performing categories, and regional performance during the Diwali period.
 
 
-![Diwali Sales Dashboard Screenshot](diwali_dashboard.png)
+<div style="text-align: center;">
+    <img src="diwali%20sales%20dashboard%20image.png" alt="Diwali Sales Dashboard Screenshot" width="80%">
+</div>
+
 
 Built with 🎉 and Power BI by Akash Anandani
 @akashanandani.56@gmail.com
